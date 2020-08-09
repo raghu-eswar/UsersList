@@ -1,0 +1,12 @@
+{
+  "name": "UsersList",
+  "displayName": "UsersList",
+  "expo": {
+    "name": "UsersList",
+    "slug": "UsersList",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
